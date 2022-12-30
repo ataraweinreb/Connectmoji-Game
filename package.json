@@ -15,7 +15,7 @@
     "chai": "^4.2.0",
     "eslint": "^6.3.0",
     "eslint-plugin-mocha": "^6.1.1",
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   },
   "scripts": {
     "test": "mocha"
